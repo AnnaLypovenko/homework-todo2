@@ -2,9 +2,12 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.modal {
+  margin-left:100px;
+  margin-right: 100px;
+  padding: 80px;
+  box-shadow: 0 0 0 200px #312e2e;
+  background: #E74C3C;
 }
 
 @media (prefers-reduced-motion: no-preference) {
